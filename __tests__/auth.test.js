@@ -1,6 +1,6 @@
 'use strict';
 
-// this test suite passing and specific to lab-06, basic auth.  do they work for lab-07?
+// this test suite passing and specific to lab-06, basic auth.  Do they work for lab-07?
 const supertest = require('supertest');
 
 const { sequelize } = require('../src/auth/models');
